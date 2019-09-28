@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="42" viewBox="0 0 25 42">
+  <g id="arrow" transform="translate(25) rotate(90)">
+    <path d="M 40.92700576782227 24.5 L 1.072993993759155 24.5 L 21 0.7773737907409668 L 40.92700576782227 24.5 Z" stroke="none"/>
+    <path d="M 21 1.554737091064453 L 2.145980834960938 24 L 39.85401916503906 24 L 21 1.554737091064453 M 21 0 L 42 25 L 0 25 L 21 0 Z" stroke="none"/>
+  </g>
+</svg>
